@@ -1,0 +1,9 @@
+F:\Users\MrTokin\source\repos\clicker\clicker\bin\Release\clicker.exe.config
+F:\Users\MrTokin\source\repos\clicker\clicker\bin\Release\clicker.exe
+F:\Users\MrTokin\source\repos\clicker\clicker\bin\Release\clicker.pdb
+F:\Users\MrTokin\source\repos\clicker\clicker\obj\Release\clicker.Form1.resources
+F:\Users\MrTokin\source\repos\clicker\clicker\obj\Release\clicker.Properties.Resources.resources
+F:\Users\MrTokin\source\repos\clicker\clicker\obj\Release\clicker.csproj.GenerateResource.cache
+F:\Users\MrTokin\source\repos\clicker\clicker\obj\Release\clicker.csproj.CoreCompileInputs.cache
+F:\Users\MrTokin\source\repos\clicker\clicker\obj\Release\clicker.exe
+F:\Users\MrTokin\source\repos\clicker\clicker\obj\Release\clicker.pdb

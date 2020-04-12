@@ -1,0 +1,10 @@
+F:\Users\MrTokin\source\repos\clicker\clicker\obj\Debug\clicker.csprojAssemblyReference.cache
+F:\Users\MrTokin\source\repos\clicker\clicker\obj\Debug\clicker.Properties.Resources.resources
+F:\Users\MrTokin\source\repos\clicker\clicker\obj\Debug\clicker.csproj.GenerateResource.cache
+F:\Users\MrTokin\source\repos\clicker\clicker\obj\Debug\clicker.csproj.CoreCompileInputs.cache
+F:\Users\MrTokin\source\repos\clicker\clicker\bin\Debug\clicker.exe.config
+F:\Users\MrTokin\source\repos\clicker\clicker\bin\Debug\clicker.exe
+F:\Users\MrTokin\source\repos\clicker\clicker\bin\Debug\clicker.pdb
+F:\Users\MrTokin\source\repos\clicker\clicker\obj\Debug\clicker.exe
+F:\Users\MrTokin\source\repos\clicker\clicker\obj\Debug\clicker.pdb
+F:\Users\MrTokin\source\repos\clicker\clicker\obj\Debug\clicker.Form1.resources
